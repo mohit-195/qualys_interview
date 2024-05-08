@@ -1,0 +1,12 @@
+1) Valid Parenthesis : Done (Should revise once)
+2) Conver decimal to binary : Remaning
+3) Best time to buy and sell a stock : Done (No need to revise)
+4) Reverse digit : Done (No need to revise just remember rev = n * 10 + rem)
+5) Power of 2 : Done (No need to revise : Usage of pow function just try to learn some other approach if possible)
+6) Check if number is a sum of powers of three :  
+7) remove duplicates from sorted array II : Done
+8) Reverse Words in a string :
+9) Move Zeroes : Done (No Need to revise)
+10) Apply operations to an array : Done (No need to revise)
+11) Set Mismatch : Done (Should revise once)
+
